@@ -1,0 +1,15 @@
+{
+    "name": "an/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "An\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Frolov",
+            "email": "internet.buro@gmail.com"
+        }
+    ],
+    "require": {}
+}
